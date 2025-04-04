@@ -20,14 +20,28 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_1.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-        <p>
-  Ce graphique montre l'évolution annuelle du nombre d'attaques terroristes dans le monde. Après une hausse marquée entre 1989 et 1994 (environ 5 000 attaques), on observe une diminution progressive jusqu’à un creux en 2001. Ce point bas coïncide paradoxalement avec l’année des attentats du 11 septembre, qui ont marqué un tournant majeur dans la lutte antiterroriste mondiale. À partir de 2004, une reprise des violences est visible, culminant entre 2014 et 2015 avec plus de 10 000 attaques annuelles. Cette période correspond à l’expansion du groupe État Islamique (Daesh), qui a semé la terreur en Irak, en Syrie, et au-delà. L’attaque de la ville de Sinjar, le siège de Kobané, ou encore les attentats de Paris en 2015 ont marqué les mémoires. Depuis 2016, une légère décrue s’observe, mais le niveau reste élevé. Ce graphique ne se limite pas à des chiffres : il raconte une histoire d’instabilités, de conflits géopolitiques et de tragédies humaines.
-</p>
-
+     <div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Ce graphique retrace l’évolution du nombre d’attaques terroristes enregistrées chaque année dans le monde, de 1990 à 2018. Il permet de visualiser les grandes dynamiques du terrorisme mondial à travers les décennies.
+  </p>
+  <p>
+    On observe un premier pic dans les années 1990, atteignant environ 5 000 attaques, suivi d’une baisse importante vers l’an 2000. À partir de 2005, une hausse constante s’amorce, culminant en 2014-2015 avec plus de 10 000 attaques par an. Après cette période, une décroissance modérée est observable.
+  </p>
+  <p>
+    Cette évolution peut s’expliquer par plusieurs facteurs : la fin de la Guerre froide a entraîné une reconfiguration des conflits, tandis que l’invasion de l’Irak en 2003 et le Printemps arabe en 2011 ont catalysé l’émergence de groupes extrémistes puissants tels que Daesh. Le pic de 2014-2015 coïncide avec l’établissement du pseudo-califat de Daesh et ses actions violentes en Irak, Syrie et au-delà.
+  </p>
+  <p>
+    En 2015, la France est frappée de plein fouet par une série d’attentats coordonnés à Paris (Bataclan, Stade de France), illustrant la montée en puissance d’un terrorisme transnational. Ce contexte mondial de peur s’inscrit dans les données de ce graphique.
+  </p>
+  <p>
+    À Mossoul en 2014, un enseignant a poursuivi ses cours sous la menace de Daesh pour préserver l’instruction des enfants. Il fut exécuté quelques semaines plus tard. Ce sacrifice symbolise l’humanité écrasée derrière chaque pic statistique.
+  </p>
+  <p>
+    En conclusion, ce graphique met en lumière l’impact des conflits géopolitiques majeurs sur la fréquence des attaques. Il rappelle que le terrorisme s’inscrit dans l’histoire mondiale et affecte autant les États que les individus.
+  </p>
+</div>
       </div>
-    </div>
 
     
 
@@ -37,14 +51,28 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_2.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-       <p>
-  Cette carte mondiale présente la répartition des attaques terroristes par type et par région. Chaque couleur représente une zone géographique, révélant des foyers intenses de violence. L’Asie du Sud (notamment l’Afghanistan et le Pakistan), le Moyen-Orient, l’Afrique du Nord et l’Afrique subsaharienne ressortent comme les zones les plus touchées. Cette densité reflète des contextes historiques lourds : guerres civiles, instabilités gouvernementales, présence de groupes djihadistes ou séparatistes. À titre d’exemple, la ville de Bagdad a connu des vagues successives d’attentats à la voiture piégée entre 2006 et 2010. Au Nigeria, Boko Haram a ravagé des villages entiers, comme lors de l’enlèvement de plus de 200 lycéennes à Chibok en 2014. Cette carte ne montre pas seulement où les attaques ont eu lieu, mais elle dessine une cartographie de la souffrance humaine, de la peur et de la résilience dans des territoires profondément marqués.
-</p>
-
+   <div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Cette carte interactive représente la répartition mondiale des attaques terroristes par type, avec un code couleur correspondant à chaque région. Elle permet d’identifier les zones géographiques les plus affectées par les violences extrémistes.
+  </p>
+  <p>
+    On distingue nettement des foyers de très forte activité en Asie du Sud (Afghanistan, Pakistan, Inde), au Moyen-Orient (Irak, Syrie), en Afrique subsaharienne (Nigeria, Mali) et en Amérique latine (Colombie, Pérou). L’Europe, l’Asie du Sud-Est et l’Amérique du Nord affichent également des points d’intensité, mais plus localisés.
+  </p>
+  <p>
+    Cette répartition peut s’expliquer par la présence de conflits armés prolongés, de mouvements séparatistes actifs, et de contextes politiques instables. Le type d’attaque varie selon les régions : attentats à la bombe au Moyen-Orient, enlèvements en Afrique, guérilla en Amérique du Sud.
+  </p>
+  <p>
+    À Maiduguri (Nigéria), épicentre des activités de Boko Haram, les marchés et écoles sont régulièrement la cible d’explosions. La ville apparaît comme un point rouge sur la carte, symbole d’un conflit qui mêle religion, pauvreté et insécurité.
+  </p>
+  <p>
+    Une fillette de 10 ans fut utilisée comme kamikaze en 2014 à Kano, au Nigéria. Cette tragédie illustre cruellement un point de données sur la carte. Derrière chaque couleur, des vies bouleversées.
+  </p>
+  <p>
+    Cette carte offre une lecture immédiate des grandes zones de tension terroriste à travers le monde. Elle rappelle que le terrorisme, loin d’être uniforme, se manifeste selon les spécificités culturelles et géopolitiques de chaque région.
+  </p>
+</div>
       </div>
-    </div>
 
     <!-- Graphique 6 -->
     <div class="graph-section">
@@ -52,13 +80,30 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_6.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-    <p>
-  Cette carte en dégradé de rouge illustre le bilan humain des attaques terroristes, avec l’Irak en tête, dépassant les 50 000 morts. Ce pays a été le théâtre de conflits majeurs depuis 2003, avec l’invasion américaine, la guerre civile et la montée en puissance de Daesh. L’Afghanistan, deuxième sur la liste, porte également les stigmates de décennies de guerre, de l’intervention soviétique aux Talibans. Le Pakistan, la Syrie, le Nigeria ou encore l’Inde présentent aussi des bilans élevés. Ces chiffres rappellent que le terrorisme n’est pas seulement un enjeu sécuritaire : c’est une tragédie humaine. Dans les rues de Mossoul, des familles entières ont péri sous les bombes. À Kaboul, des écoliers ont été tués lors d'attentats ciblés. Cette carte est une carte du deuil, une mémoire visuelle des endroits où des vies ont été fauchées, souvent dans l’indifférence du monde.
-</p>
+<div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Cette carte du monde en dégradé de rouge représente les pays ayant enregistré le plus grand nombre de morts liés à des attaques terroristes. Plus la couleur est foncée, plus le nombre de victimes est élevé.
+  </p>
+  <p>
+    L’Irak apparaît comme le pays le plus endeuillé, suivi de l’Afghanistan, du Pakistan, de la Syrie, du Nigeria et de l’Inde. Ces pays ont tous été confrontés à des conflits internes, à la présence de groupes djihadistes puissants ou à des tensions ethniques et politiques majeures.
+  </p>
+  <p>
+    Le nombre élevé de morts est souvent corrélé à des attaques de grande ampleur dans des zones densément peuplées, à l’instar de Mossoul, Kaboul ou Maiduguri. Les conflits asymétriques, où les civils sont les premières cibles, y sont fréquents.
+  </p>
+  <p>
+    À Kaboul, en 2017, une attaque au camion piégé a tué plus de 150 personnes dans le quartier diplomatique. Cet événement marque l’un des attentats les plus meurtriers de l’histoire récente de l’Afghanistan.
+  </p>
+  <p>
+    Chaque teinte rouge sur cette carte représente des milliers de familles endeuillées. Des rues détruites, des marchés calcinés, des écoles vides. C’est une cartographie du deuil mondial.
+  </p>
+  <p>
+    Ce graphique permet de visualiser la répartition géographique de la souffrance humaine liée au terrorisme, et rappelle la nécessité d’un engagement international pour stabiliser ces régions.
+  </p>
+</div>
 
-      </div>
+
+
     </div>
 
     <!-- Graphique 3 -->
@@ -67,13 +112,29 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_3.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-<p>
-  Ce graphique classe les types d’attaques terroristes selon leur fréquence. Les attentats à la bombe ou par explosion arrivent largement en tête, avec plus de 57 000 incidents. Ces méthodes sont souvent utilisées pour frapper des lieux publics, des marchés, ou des transports — des cibles symboliques et densément peuplées. Les assauts armés et les assassinats suivent, soulignant l’aspect ciblé de certaines opérations, notamment contre des figures politiques ou militaires. Le recours à l’enlèvement et aux attaques d’infrastructures traduit aussi une volonté de déstabiliser l’autorité et de semer le chaos. L’histoire récente regorge d’exemples marquants : l’attentat du métro de Madrid en 2004, les attaques coordonnées à Bombay en 2008, ou encore l’explosion meurtrière à Kaboul en 2017. Derrière chaque barre de ce graphique, ce sont des vies bouleversées, des familles détruites, et des sociétés entières plongées dans l’incertitude.
-</p>
+<div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Ce graphique classe les types d’attaques terroristes selon leur fréquence. Il donne un aperçu global des tactiques privilégiées par les groupes armés à travers le monde.
+  </p>
+  <p>
+    Les attentats à la bombe (explosions) dominent largement, avec plus de 57 000 incidents, suivis par les assauts armés (25 000), les assassinats, les prises d’otages et les attaques contre les infrastructures. D’autres formes comme les détournements d’avion ou les armes chimiques sont beaucoup plus rares.
+  </p>
+  <p>
+    Ces tendances reflètent une préférence pour les méthodes accessibles, peu coûteuses, et susceptibles de provoquer un impact médiatique fort. Les explosions dans les lieux publics visent souvent à semer la panique de manière indiscriminée.
+  </p>
+  <p>
+    En Irak, entre 2005 et 2010, les attentats à la voiture piégée étaient presque quotidiens à Bagdad. Le marché d’Al-Karada a été ciblé en 2016 par un camion piégé, tuant plus de 300 personnes en une nuit.
+  </p>
+  <p>
+    Derrière chaque barre du graphique se cache une réalité humaine : des familles détruites, des enfants blessés, des traumatismes collectifs. Une statistique qui parle, mais ne crie pas la douleur qu’elle contient.
+  </p>
+  <p>
+    Ce graphique souligne que le terrorisme moderne s’appuie majoritairement sur des tactiques simples, brutales et efficaces. Pour les contrer, il faut comprendre ces logiques opérationnelles et anticiper les vulnérabilités potentielles.
+  </p>
+</div>
 
-      </div>
+
     </div>
       
         <!-- Graphique 8 -->
@@ -82,13 +143,28 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_8.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-       <p>
-  Ce graphique en forme de camembert illustre la répartition des attaques suicides par région. Il met clairement en évidence que le Moyen-Orient et l’Afrique du Nord concentrent la majorité écrasante de ces attaques, suivi de l’Asie du Sud. Ces deux régions représentent à elles seules l’immense majorité des cas répertoriés. Ce type d’attaque, particulièrement radical, est souvent associé à des idéologies extrémistes où le sacrifice de soi est valorisé comme un acte de martyre. C’est notamment le cas avec les attentats kamikazes perpétrés par des groupes comme Al-Qaïda ou Daesh, que ce soit à Bagdad, Mossoul ou encore Kaboul. À travers ces chiffres, on peut évoquer des histoires tragiques comme celle d’un jeune homme en Irak, forcé par un groupe armé à se faire exploser dans un marché bondé, ou encore celle de femmes utilisées comme bombes humaines au Nigeria par Boko Haram. Ce graphique met en lumière une pratique particulièrement meurtrière et traumatisante, révélant à quel point certaines régions sont plongées dans un cycle de violence extrême où la mort devient une arme.
-</p>
+<div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Ce graphique en camembert montre la répartition des attaques suicides selon les grandes régions du monde. Il met en lumière la concentration géographique de cette méthode d’attaque, particulièrement radicale et meurtrière.
+  </p>
+  <p>
+    Le Moyen-Orient et l’Afrique du Nord concentrent la majorité des attaques suicides, suivis de près par l’Asie du Sud. L’Afrique subsaharienne, l’Asie de l’Est et l’Europe apparaissent de façon plus marginale. Cette concentration dans certaines zones reflète des contextes où l’idéologie religieuse extrême et les conflits prolongés favorisent le recours au martyre comme outil militaire.
+  </p>
+  <p>
+    Les attaques suicides sont souvent perçues comme l’arme du désespoir, mais aussi comme un choix stratégique visant un impact psychologique maximal. Elles requièrent une préparation idéologique et logistique spécifique, souvent orchestrée par des groupes comme Al-Qaïda, Daesh ou les Talibans.
+  </p>
+  <p>
+    L’attentat suicide de 2005 à Amman (Jordanie), ayant visé trois hôtels internationaux et causé plus de 60 morts, est un exemple marquant. De jeunes recrues y ont été envoyées pour se faire exploser, à la suite d’un endoctrinement intense.
+  </p>
+  <p>
+    Une femme nigériane, forcée par Boko Haram à porter une ceinture explosive, a sauvé des dizaines de personnes en désobéissant à ses bourreaux, quittant le lieu visé avant l’explosion. Son acte de courage fait écho à un contrepoids discret dans ce type d’attaque.
+  </p>
+  <p>
+    Ce graphique rappelle que l’usage du corps humain comme arme de guerre est une stratégie extrême, largement conditionnée par les idéologies et conflits régionaux. Il interpelle sur le caractère profondément humain – et tragique – de chaque donnée affichée.
+  </p>
+</div>
 
-      </div>
     </div>
     
        <!-- Graphique 9 -->
@@ -97,13 +173,28 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_9.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-       <p>
-  Ce graphique en boîte met en évidence la létalité des différentes armes utilisées dans les attaques terroristes. Les armes à feu et les explosifs ressortent comme les plus fréquemment meurtrières, avec une large dispersion du nombre de morts par attaque. Les véhicules, armes chimiques ou incendiaires présentent également une létalité importante, bien que moins fréquente. Ce graphique rappelle certaines tragédies marquantes : l’attentat au camion-bélier de Nice en 2016, qui a fait 86 morts, ou les attaques à la bombe de Bagdad en 2016 avec plus de 300 morts. Plus rares mais tout aussi inquiétants, des cas isolés liés aux armes chimiques (comme l’attaque au gaz sarin dans le métro de Tokyo en 1995) ou biologiques apparaissent également. Ces formes d’attaques, bien que marginales, posent des défis majeurs pour la sécurité mondiale. Ce graphique rappelle que le terrorisme s’adapte aux moyens disponibles, et que derrière chaque type d’arme se cachent des stratégies, des idéologies, et surtout des vies perdues dans l’horreur.
-</p>
+<div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Ce graphique en boîte (boxplot) compare le nombre de morts générés par différents types d’armes utilisées lors d’attaques terroristes. Il permet de visualiser la létalité médiane et les extrêmes liés à chaque catégorie d’arme.
+  </p>
+  <p>
+    Les armes à feu et les explosifs ressortent comme les plus meurtrières, avec une large dispersion du nombre de morts par attaque. Les véhicules, les armes incendiaires, les armes chimiques et biologiques présentent également des pics élevés, bien qu’utilisées moins fréquemment.
+  </p>
+  <p>
+    Ces résultats s’expliquent par la facilité d'accès aux armes à feu dans certaines régions, la puissance destructrice des explosifs improvisés (IED), et l’effet de surprise des attaques au véhicule-bélier, particulièrement en zone urbaine dense.
+  </p>
+  <p>
+    L’attentat à la voiture piégée à Kaboul en 2017 (plus de 150 morts) ou celui de Nice en 2016 (86 morts au camion) illustrent la violence potentielle de ces armes. Même les attaques chimiques, bien que rares, peuvent avoir un effet catastrophique, comme celle au gaz sarin à Tokyo en 1995.
+  </p>
+  <p>
+    Un attentat avorté en Allemagne en 2018 visait à répandre un poison biologique dans un métro, mais fut déjoué à temps. Cette tentative illustre les risques émergents d’attaques atypiques.
+  </p>
+  <p>
+    Ce graphique offre un éclairage précis sur la dangerosité relative des moyens employés par les groupes terroristes. Il souligne que la prévention doit intégrer tous les scénarios, même les plus rares, car leurs conséquences peuvent être dramatiques.
+  </p>
+</div>
 
-      </div>
     </div>
     
     <!-- Graphique 4 -->
@@ -113,12 +204,27 @@
         <iframe src="/plotly/graph_4.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
       <div class="analysis-box">
-        <h3>Analyse</h3>
-        <p>
-  Ce treemap hiérarchique détaille les cibles privilégiées des attaques terroristes. On y voit que les civils (catégorie "Private Citizens & Property") sont de loin les plus visés, notamment les populations non armées, les places publiques, les marchés ou les moyens de transport. Cette réalité reflète une stratégie de terreur visant à frapper l’espace public pour maximiser la peur et la couverture médiatique. Les forces de l’ordre et les institutions gouvernementales suivent, tout comme les infrastructures militaires. Ce type de ciblage rappelle de nombreux événements tragiques : les attentats de 2015 à Paris (Bataclan, terrasses, Stade de France), où les civils furent délibérément pris pour cible, ou encore les attaques contre des postes de police à Bagdad, Kaboul ou Mogadiscio. Même les écoles, les journalistes, les lieux religieux et les ONG apparaissent dans la liste, soulignant que le terrorisme frappe sans distinction, souvent là où la société est la plus vulnérable. Ce graphique montre que la violence n’est pas seulement dirigée contre des institutions : elle est souvent destinée à briser le lien social lui-même.
-</p>
+  <h3>Analyse</h3>
+  <p>
+    Ce graphique en treemap hiérarchique illustre la répartition des types de cibles visées par les attaques terroristes dans le monde. Il classe ces cibles en grandes catégories (civils, forces militaires, gouvernements, infrastructures...) et montre leur fréquence respective.
+  </p>
+  <p>
+    Les civils et leurs biens ("Private Citizens & Property") sont les cibles les plus fréquentes, loin devant les institutions militaires ou gouvernementales. Viennent ensuite la police, les entités commerciales (banques, entreprises), les infrastructures de transport ou d’énergie.
+  </p>
+  <p>
+    Cette tendance révèle une volonté claire de frapper les populations civiles, souvent dans les lieux du quotidien (marchés, places, transports publics), pour semer la terreur et déstabiliser le tissu social.
+  </p>
+  <p>
+    À Bagdad, les attaques contre les marchés bondés sont devenues tristement routinières au fil des années 2000. En 2016, un attentat dans un centre commercial d’Al-Karrada a fait plus de 300 morts, ciblant des civils en pleine fête du Ramadan.
+  </p>
+  <p>
+    L’histoire d’un conducteur de bus de Nairobi, qui a protégé ses passagers musulmans et chrétiens d’une attaque des Shebab en refusant de les trier, incarne la résistance humaine dans un monde où les civils sont en première ligne.
+  </p>
+  <p>
+    Ce graphique met en évidence que le terrorisme vise souvent les plus vulnérables. Il nous rappelle que derrière chaque statistique, il y a des victimes innocentes et des sociétés traumatisées, ciblées dans ce qu’elles ont de plus quotidien.
+  </p>
+</div>
 
-      </div>
     </div>
 
     <!-- Graphique 5 -->
@@ -127,14 +233,28 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_5.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-     <p>
-  Ce graphique interactif permet d'explorer les groupes terroristes les plus actifs selon les régions du monde via une liste déroulante. Il met en évidence les organisations qui ont marqué l'histoire du terrorisme dans leurs zones respectives. En Amérique du Sud, on retrouve les FARC et le Sentier lumineux (Shining Path), deux groupes aux idéologies marxistes qui ont mené des campagnes armées durant plusieurs décennies. En Asie du Sud, les Talibans et Lashkar-e-Taiba se démarquent par leur intensité d'action, notamment en Afghanistan, au Pakistan et en Inde. En Afrique, Boko Haram domine, ayant mené des attaques massives au Nigéria et dans les pays voisins. Au Moyen-Orient, le groupe État Islamique (Daesh) et Al-Qaïda ont laissé des empreintes sanglantes. Ce graphique permet donc une analyse comparative précieuse : il montre que le terrorisme prend des formes variées selon les contextes géopolitiques, les idéologies, et les dynamiques de pouvoir propres à chaque région. L’utilisateur peut ainsi naviguer d’une zone à l’autre pour découvrir les acteurs les plus influents ou meurtriers du paysage mondial du terrorisme.
-</p>
+<div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Ce graphique interactif classe les groupes terroristes les plus actifs par région du monde, selon la sélection effectuée via un menu déroulant. Il permet d’analyser la diversité des organisations extrémistes en fonction des contextes géographiques.
+  </p>
+  <p>
+    En Amérique du Sud, les FARC et le Sentier lumineux sont prédominants, incarnant une guérilla marxiste prolongée. En Asie du Sud, les Talibans et Lashkar-e-Taiba dominent, tandis que Daesh et Al-Qaïda apparaissent nettement au Moyen-Orient. En Afrique, Boko Haram est l’un des plus meurtriers. Chaque région a ainsi ses propres dynamiques idéologiques, historiques et militaires.
+  </p>
+  <p>
+    Ces groupes émergent souvent dans des contextes d'inégalités sociales, de vide institutionnel, ou de conflits prolongés. Leurs stratégies varient : guérilla rurale, attentats-suicides urbains, enlèvements, etc.
+  </p>
+  <p>
+    En 2014, Boko Haram enlève plus de 200 lycéennes à Chibok, Nigeria. Ce drame mondialement médiatisé est l’œuvre du groupe le plus actif d’Afrique cette année-là. Dans les Andes, le Sentier lumineux a tué des dizaines de paysans dans les années 80 pour asseoir son autorité.
+  </p>
+  <p>
+    Ce graphique ne montre pas que des noms : il expose les mouvements qui ont façonné des décennies de peur et d’insécurité, dans des contextes bien distincts. Il offre une vue comparative rare sur le terrorisme mondial.
+  </p>
+  <p>
+    L’interactivité permet de mieux comprendre les logiques régionales du terrorisme, et souligne que la lutte contre ces groupes nécessite des approches localisées, adaptées aux réalités de chaque terrain.
+  </p>
+</div>
 
-
-      </div>
     </div>
 
     
@@ -145,15 +265,28 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_7.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-        <p>
-  Ce graphique met en contraste le nombre d’attaques terroristes réussies (en vert) et échouées (en rouge) chaque année de 1990 à 2017. Il montre très nettement que la grande majorité des attaques aboutissent, avec un pic entre 2013 et 2015 dépassant les 8 000 attaques réussies par an. Cela coïncide avec l'apogée du groupe État Islamique (Daesh) au Moyen-Orient, période durant laquelle les attentats-suicides, les attaques armées et les voitures piégées étaient quasi-quotidiens. Le nombre d’attaques échouées reste relativement stable, bien qu’en hausse depuis 2012, ce qui peut refléter une amélioration des capacités de renseignement et d'interception (notamment en Europe et en Amérique du Nord). 
-  <br>
-  Derrière ces chiffres se cachent des histoires méconnues : celle d’un policier irakien qui a déjoué un attentat en immobilisant une voiture piégée à un checkpoint, ou encore celle d’un civil qui a alerté la police à Kaboul, évitant une catastrophe dans un centre commercial. Ces échecs, bien que minoritaires, symbolisent les efforts quotidiens de prévention. Ce graphique illustre ainsi non seulement la réalité brutale du succès des actions terroristes, mais aussi les marges de résistance et les victoires silencieuses face à la terreur.
-</p>
+  <div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Ce graphique empilé compare le nombre d’attaques terroristes réussies (en vert) et échouées (en rouge) de 1990 à 2017. Il permet d’évaluer non seulement la fréquence des attaques, mais aussi l’efficacité des dispositifs de prévention et de neutralisation.
+  </p>
+  <p>
+    Les attaques réussies restent largement majoritaires, représentant la quasi-totalité des cas. Une hausse globale est visible à partir de 2005, avec un pic en 2014-2015, période correspondant à l’apogée de l’État Islamique. Les tentatives échouées augmentent légèrement dans les années 2010.
+  </p>
+  <p>
+    Cette évolution s’explique par la montée en puissance de groupes organisés, la multiplication des cellules autonomes et une meilleure coordination logistique. L’augmentation des échecs peut témoigner d’un renforcement des services de renseignement et de la coopération internationale.
+  </p>
+  <p>
+    En France, l’attentat de l’église de Villejuif (2015) a été évité de justesse grâce à une interpellation fortuite. À New York, en 2010, un attentat à la voiture piégée sur Times Square a échoué suite à l’intervention d’un vendeur de rue qui a alerté la police.
+  </p>
+  <p>
+    Ces histoires montrent que derrière chaque attaque évitée, il y a souvent une vigilance humaine, un hasard heureux ou un renseignement bien exploité. Le rouge sur ce graphique, bien que discret, représente des vies sauvées.
+  </p>
+  <p>
+    Ce graphique incite à poursuivre les efforts de prévention, tout en rappelant que malgré les dispositifs de sécurité, le risque reste structurellement élevé lorsque les tensions géopolitiques et idéologiques perdurent.
+  </p>
+</div>
 
-      </div>
     </div>
 
 
@@ -166,15 +299,29 @@
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_10.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-        <p>
-  Ce graphique dynamique illustre les attaques terroristes les plus meurtrières (ayant causé au moins 20 morts), avec un filtre par région du monde. L’utilisateur peut ainsi explorer les événements les plus violents en Afrique subsaharienne, au Moyen-Orient, en Asie du Sud, en Europe ou encore en Amérique latine. On observe, par exemple, de lourdes pertes humaines en Irak, en Afghanistan et au Nigeria, avec des attentats qui ont parfois causé plusieurs centaines de morts. En Europe, bien que les attaques meurtrières soient moins fréquentes, certaines comme celles de Madrid (2004) ou de Paris (2015) ressortent par leur impact. 
-  <br>
-  Cette visualisation met en évidence la répartition temporelle et géographique des actes les plus sanglants, et permet de détecter des périodes de pic de violence : guerre en Irak dans les années 2000, montée de Boko Haram dans les années 2010, ou encore les vagues d'attentats liés à Daesh en 2014–2016. Derrière chaque bulle se cache une tragédie humaine, qu'elle ait eu lieu à Kaboul, à Paris, à Mogadiscio ou à Mumbai. Ce graphique rappelle que la douleur causée par le terrorisme est universelle, même si ses formes et intensités varient selon les continents.
-</p>
+<div class="analysis-box">
+  <h3>Analyse</h3>
+  <p>
+    Ce graphique interactif recense les attaques terroristes ayant causé au moins 20 morts, en les répartissant dans le temps et selon les régions du monde. Grâce à un filtre par région, l’utilisateur peut analyser les événements les plus violents à l’échelle globale.
+  </p>
+  <p>
+    L’Afrique subsaharienne, le Moyen-Orient, l’Asie du Sud et l’Amérique latine affichent plusieurs pics d’intensité, souvent liés à des conflits prolongés ou à des vagues extrémistes localisées. Des événements majeurs sont aussi visibles en Europe ou en Asie du Sud-Est.
+  </p>
+  <p>
+    Ces attaques de grande ampleur sont souvent le fruit de stratégies de terreur massives, comme les attentats-suicides multiples, les embuscades contre des forces armées ou les massacres dans des lieux de culte ou de rassemblement.
+  </p>
+  <p>
+    En Irak, une explosion dans un marché bondé à Al-Karrada a tué plus de 300 personnes en une nuit. Au Nigeria, Boko Haram a perpétré en 2015 une attaque contre le village de Baga, faisant jusqu’à 2 000 morts. Ce sont des points extrêmes de ce nuage de données.
+  </p>
+  <p>
+    En Colombie, dans les années 90, les FARC ont bombardé des postes de police et des villages entiers, causant des dizaines de morts. Même en Europe, les attentats de Madrid (2004) ou Paris (2015) s’inscrivent dans cette catégorie.
+  </p>
+  <p>
+    Ce graphique montre que la violence extrême du terrorisme touche tous les continents et qu’elle n’est pas l’apanage d’une région. Il invite à une vigilance globale et à une lecture comparée des causes profondes de cette radicalité meurtrière.
+  </p>
+</div>
 
-      </div>
+
     </div>
 
     <!-- 🧩 CONCLUSION -->
