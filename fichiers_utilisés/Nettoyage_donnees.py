@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Spécifier le chemin du fichier
-file_path = r"C:\Users\hp\Downloads\archive\globalterrorismdb_0718dist.csv"
+file_path = r"C:\Users\redar\Desktop\Script Python TT\donnees\globalterrorismdb_0718dist.csv"
 
 # Charger le fichier CSV
 df = pd.read_csv(file_path, encoding='latin1', sep=None, engine='python')  # Modifier le séparateur si nécessaire
@@ -40,16 +40,13 @@ df = df.drop(columns=[col for col in colonnes_a_supprimer if col in df.columns])
 df['nperps'] = df['nperps'].apply(lambda x: -9 if pd.isna(x) or x < 0 else x)
 
 # 7. Remplacer les valeurs vides dans 'claimed' par -9
-#df['claimed'].fillna(-9, inplace=True)
 df.loc[:, 'claimed'] = df['claimed'].fillna(-9)
 
 # 8. Remplacer les valeurs vides dans 'weaptype1' par 13
-#df['weaptype1'].fillna(13, inplace=True)
 df.loc[:, 'weaptype1'] = df['weaptype1'].fillna(13)
 
 
 # 9. Remplacer les valeurs vides dans 'weaptype1_txt' par 'Unknown'
-#df['weaptype1_txt'].fillna('Unknown', inplace=True)
 df.loc[:, 'weaptype1_txt'] = df['weaptype1_txt'].fillna('Unknown')
 
 # Enregistrer le fichier Excel mis à jour
