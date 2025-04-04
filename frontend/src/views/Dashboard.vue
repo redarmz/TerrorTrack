@@ -22,7 +22,10 @@
       </div>
       <div class="analysis-box">
         <h3>Analyse</h3>
-        <p>Le graphique présente l’évolution annuelle du nombre d’attaques terroristes dans le monde depuis la fin des années 1980. On observe une première hausse notable entre 1989 et 1994, atteignant un pic à environ 5 000 attaques. Une baisse progressive suit, jusqu’à un creux autour de 2001 avec moins de 2 000 attaques. À partir de 2004, le nombre d’attaques repart à la hausse de façon continue, culminant en 2014–2015 avec plus de 10 000 attaques. Ce pic est probablement lié à l’intensification des conflits au Moyen-Orient et à la montée de groupes extrémistes comme Daesh. Depuis 2016, une baisse relative s’observe, bien que les chiffres restent élevés. Cette visualisation permet ainsi de repérer des phases clés dans l’histoire contemporaine du terrorisme mondial.</p>
+        <p>
+  Ce graphique montre l'évolution annuelle du nombre d'attaques terroristes dans le monde. Après une hausse marquée entre 1989 et 1994 (environ 5 000 attaques), on observe une diminution progressive jusqu’à un creux en 2001. Ce point bas coïncide paradoxalement avec l’année des attentats du 11 septembre, qui ont marqué un tournant majeur dans la lutte antiterroriste mondiale. À partir de 2004, une reprise des violences est visible, culminant entre 2014 et 2015 avec plus de 10 000 attaques annuelles. Cette période correspond à l’expansion du groupe État Islamique (Daesh), qui a semé la terreur en Irak, en Syrie, et au-delà. L’attaque de la ville de Sinjar, le siège de Kobané, ou encore les attentats de Paris en 2015 ont marqué les mémoires. Depuis 2016, une légère décrue s’observe, mais le niveau reste élevé. Ce graphique ne se limite pas à des chiffres : il raconte une histoire d’instabilités, de conflits géopolitiques et de tragédies humaines.
+</p>
+
       </div>
     </div>
 
@@ -36,7 +39,10 @@
       </div>
       <div class="analysis-box">
         <h3>Analyse</h3>
-        <p>Ici, tu peux décrire les types d’attaques les plus fréquents ou leur évolution au fil des années.</p>
+       <p>
+  Cette carte mondiale présente la répartition des attaques terroristes par type et par région. Chaque couleur représente une zone géographique, révélant des foyers intenses de violence. L’Asie du Sud (notamment l’Afghanistan et le Pakistan), le Moyen-Orient, l’Afrique du Nord et l’Afrique subsaharienne ressortent comme les zones les plus touchées. Cette densité reflète des contextes historiques lourds : guerres civiles, instabilités gouvernementales, présence de groupes djihadistes ou séparatistes. À titre d’exemple, la ville de Bagdad a connu des vagues successives d’attentats à la voiture piégée entre 2006 et 2010. Au Nigeria, Boko Haram a ravagé des villages entiers, comme lors de l’enlèvement de plus de 200 lycéennes à Chibok en 2014. Cette carte ne montre pas seulement où les attaques ont eu lieu, mais elle dessine une cartographie de la souffrance humaine, de la peur et de la résilience dans des territoires profondément marqués.
+</p>
+
       </div>
     </div>
 
@@ -48,7 +54,10 @@
       </div>
       <div class="analysis-box">
         <h3>Analyse</h3>
-        <p>Commenter ici les pays les plus touchés par les attaques : pourquoi eux ? Conflits ? Instabilité ?</p>
+    <p>
+  Cette carte en dégradé de rouge illustre le bilan humain des attaques terroristes, avec l’Irak en tête, dépassant les 50 000 morts. Ce pays a été le théâtre de conflits majeurs depuis 2003, avec l’invasion américaine, la guerre civile et la montée en puissance de Daesh. L’Afghanistan, deuxième sur la liste, porte également les stigmates de décennies de guerre, de l’intervention soviétique aux Talibans. Le Pakistan, la Syrie, le Nigeria ou encore l’Inde présentent aussi des bilans élevés. Ces chiffres rappellent que le terrorisme n’est pas seulement un enjeu sécuritaire : c’est une tragédie humaine. Dans les rues de Mossoul, des familles entières ont péri sous les bombes. À Kaboul, des écoliers ont été tués lors d'attentats ciblés. Cette carte est une carte du deuil, une mémoire visuelle des endroits où des vies ont été fauchées, souvent dans l’indifférence du monde.
+</p>
+
       </div>
     </div>
 
@@ -60,7 +69,10 @@
       </div>
       <div class="analysis-box">
         <h3>Analyse</h3>
-        <p>Analyse ici la concentration des attaques dans certaines régions du monde, avec un focus géographique.</p>
+<p>
+  Ce graphique classe les types d’attaques terroristes selon leur fréquence. Les attentats à la bombe ou par explosion arrivent largement en tête, avec plus de 57 000 incidents. Ces méthodes sont souvent utilisées pour frapper des lieux publics, des marchés, ou des transports — des cibles symboliques et densément peuplées. Les assauts armés et les assassinats suivent, soulignant l’aspect ciblé de certaines opérations, notamment contre des figures politiques ou militaires. Le recours à l’enlèvement et aux attaques d’infrastructures traduit aussi une volonté de déstabiliser l’autorité et de semer le chaos. L’histoire récente regorge d’exemples marquants : l’attentat du métro de Madrid en 2004, les attaques coordonnées à Bombay en 2008, ou encore l’explosion meurtrière à Kaboul en 2017. Derrière chaque barre de ce graphique, ce sont des vies bouleversées, des familles détruites, et des sociétés entières plongées dans l’incertitude.
+</p>
+
       </div>
     </div>
       
