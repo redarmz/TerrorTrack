@@ -57,4 +57,9 @@
   background-color: #042075;
   border-top: 4px solid #ff0707;
 }
+body {
+  background-color: #cbd5e1;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 </style>
