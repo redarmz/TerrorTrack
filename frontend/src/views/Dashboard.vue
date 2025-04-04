@@ -10,7 +10,7 @@
     Après 1990, le monde entre dans une nouvelle ère marquée par la montée des conflits asymétriques, l'émergence d'acteurs non étatiques, et la multiplication des attaques visant des civils. Le terrorisme devient alors un phénomène globalisé, aux motivations multiples (religieuses, politiques, idéologiques), souvent enraciné dans des tensions locales mais avec des répercussions internationales.
     <br><br>
     Ce tableau de bord vise à rendre compte de cette complexité à travers des visualisations interactives permettant d’explorer :
-        <br><br>
+        <br>  
         <p>📈 L’évolution du nombre d’attentats au fil des années</p>
 <p>🌍 Les régions les plus touchées et leur évolution géographique</p>
 <p>🔫 Les types d’attaques et d’armes utilisés</p>
@@ -18,6 +18,7 @@
 <p>💀 Le nombre de victimes et les attaques les plus meurtrières</p>
 <p>🧠 Les groupes responsables les plus actifs dans le monde</p>
 
+<br> 
     L’objectif de TerrorTrack n’est pas seulement de présenter des chiffres, mais de raconter, à travers les données, l’histoire contemporaine d’un phénomène tragique qui façonne nos sociétés, influence les politiques de sécurité et bouleverse des millions de vies.
   </p>
 </div>
@@ -28,7 +29,7 @@
 
     <!-- Graphique 1 -->
     <div class="graph-section">
-      <h2>1. Évolution annuelle du nombre d’attaques</h2>
+      <h2>1.Évolution interactive du nombre d\'attaques terroristes par année</h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_1.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -59,7 +60,7 @@
 
     <!-- Graphique 2 -->
     <div class="graph-section">
-      <h2>2. Répartition des attaques par type (avec slider)</h2>
+      <h2>2. Répartition des attaques terroristes (par région et gravité)</h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_2.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -88,7 +89,7 @@
 
     <!-- Graphique 6 -->
     <div class="graph-section">
-      <h2>6. Carte des pays les plus touchés</h2>
+      <h2>3. Carte des pays les plus touchés</h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_6.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -120,7 +121,7 @@
 
     <!-- Graphique 3 -->
     <div class="graph-section">
-      <h2>3. Cartographie des attaques par région</h2>
+      <h2>4. Types d'attaque les plus fréquentes</h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_3.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -151,7 +152,7 @@
       
         <!-- Graphique 8 -->
         <div class="graph-section">
-      <h2>8. Répartition des attaques par région (camembert)</h2>
+      <h2>5. Répartition des attaques suicides par région </h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_8.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -181,7 +182,7 @@
     
        <!-- Graphique 9 -->
        <div class="graph-section">
-      <h2>9. Nombre de morts par type d’arme</h2>
+      <h2>6. Nombre de morts par type d’arme</h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_9.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -211,7 +212,7 @@
     
     <!-- Graphique 4 -->
     <div class="graph-section">
-      <h2>4. Types d’attaques selon les régions</h2>
+      <h2>7. Répartition de types de cibles visées</h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_4.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -241,7 +242,7 @@
 
     <!-- Graphique 5 -->
     <div class="graph-section">
-      <h2>5. Groupes terroristes les plus actifs (liste déroulante)</h2>
+      <h2>8. Groupes terroristes les plus actifs par région </h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_5.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -273,7 +274,7 @@
 
     <!-- Graphique 7 -->
     <div class="graph-section">
-      <h2>7. Chronologie des groupes actifs par pays</h2>
+      <h2>9. Attaques réussies vs échouées par année</h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_7.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -307,7 +308,7 @@
 
     <!-- Graphique 10 -->
     <div class="graph-section">
-      <h2>10. Timeline des attaques les plus meurtrières</h2>
+      <h2>10. Timeline des attaques les plus meurtrières (≥ 20 morts) - Sélectionnez une région</h2>
       <div class="iframe-wrapper">
         <iframe src="/plotly/graph_10.html" width="100%" height="600" frameborder="0"></iframe>
       </div>
@@ -393,7 +394,7 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
 .graph-section h2 {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 .iframe-wrapper {
@@ -401,16 +402,22 @@
   overflow: hidden;
 }
 .analysis-box {
-  margin-top: 1.5rem;
-  background-color: rgba(216, 148, 148, 0.302);
-  border-left: 4px solid #076aff;
-  padding: 1rem 1.5rem;
-  border-radius: 6px;
-}
-.analysis-box h3 {
-  margin-bottom: 0.5rem;
-  font-size: 1.1rem;
+  background-color: #fef7f7;
+  border-left: 6px solid rgb(52, 108, 182);
+  padding: 2rem;
+  border-radius: 12px;
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.7;
   color: #333;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+  margin-top: 2rem;
+}
+
+.analysis-box h3 {
+  font-size: 1.9rem;
+  color: rgb(52, 108, 182)  ;
+  margin-bottom: 1rem;
 }
 .analysis-box p {
   font-size: 0.95rem;
