@@ -1,15 +1,27 @@
 <template>
   <div class="container py-5">
 
-    <!-- 🎯 INTRODUCTION -->
-    <div class="intro-block">
-      <h2 class="highlighted-title">📌 BIENVENUE SUR LE TABLEAU DE BORD TERRORTRACK</h2>
-      <p class="intro-text">
-        Explorez des statistiques interactives sur les attaques terroristes à travers le monde.
-        Grâce aux graphiques ci-dessous, identifiez les tendances, les régions les plus affectées,
-        les types d’attaques utilisés, les groupes responsables et bien plus encore.
-      </p>
-    </div>
+<!-- 🎯 INTRODUCTION -->
+<div class="intro-block">
+  <h2 class="highlighted-title">📌 BIENVENUE SUR LE TABLEAU DE BORD TERRORTRACK</h2>
+  <p class="intro-text">
+    Le tableau de bord TerrorTrack a été conçu pour offrir une vision globale, interactive et documentée du terrorisme à l’échelle mondiale, à partir de l’année 1990. Ce choix de point de départ n’est pas anodin : il permet de se concentrer sur les dynamiques contemporaines du terrorisme, en excluant les périodes de la Guerre froide, durant lesquelles les actes violents étaient souvent intégrés dans des logiques de conflits idéologiques Est-Ouest, parfois difficilement comparables aux formes de terrorisme que nous connaissons aujourd’hui.
+    <br><br>
+    Après 1990, le monde entre dans une nouvelle ère marquée par la montée des conflits asymétriques, l'émergence d'acteurs non étatiques, et la multiplication des attaques visant des civils. Le terrorisme devient alors un phénomène globalisé, aux motivations multiples (religieuses, politiques, idéologiques), souvent enraciné dans des tensions locales mais avec des répercussions internationales.
+    <br><br>
+    Ce tableau de bord vise à rendre compte de cette complexité à travers des visualisations interactives permettant d’explorer :
+    <ul>
+      <li>📈 L’évolution du nombre d’attentats au fil des années</li>
+      <li>🌍 Les régions les plus touchées et leur évolution géographique</li>
+      <li>🔫 Les types d’attaques et d’armes utilisés</li>
+      <li>🎯 Les cibles les plus visées par les groupes terroristes</li>
+      <li>💀 Le nombre de victimes et les attaques les plus meurtrières</li>
+      <li>🧠 Les groupes responsables les plus actifs dans le monde</li>
+    </ul>
+    L’objectif de TerrorTrack n’est pas seulement de présenter des chiffres, mais de raconter, à travers les données, l’histoire contemporaine d’un phénomène tragique qui façonne nos sociétés, influence les politiques de sécurité et bouleverse des millions de vies.
+  </p>
+</div>
+
 
     <h1 class="title">📊 Dashboard TerrorTrack</h1>
     <p class="intro">Visualisations interactives sur les attaques terroristes à travers le monde.</p>
@@ -324,16 +336,20 @@
 
     </div>
 
-    <!-- 🧩 CONCLUSION -->
-    <div class="intro-block mt-5">
-      <h2 class="highlighted-title">🧠 CONCLUSION GÉNÉRALE</h2>
-      <p class="intro-text">
-        Cette analyse permet de mieux comprendre les dynamiques du terrorisme mondial.
-        En combinant cartes, timelines, répartitions par type ou par groupe, nous avons construit une vision claire
-        des phénomènes à travers le temps. Ce tableau de bord peut alimenter des réflexions stratégiques,
-        scientifiques ou politiques.
-      </p>
-    </div>
+<!-- 🧩 CONCLUSION -->
+<div class="intro-block mt-5">
+  <h2 class="highlighted-title">🧠 CONCLUSION GÉNÉRALE</h2>
+  <p class="intro-text">
+    Le tableau de bord TerrorTrack nous offre une plongée complète dans l’évolution du terrorisme mondial depuis 1990. À travers des visualisations interactives, il met en évidence les mutations profondes de ce phénomène : la montée des violences après la fin de la Guerre froide, l’impact des conflits géopolitiques majeurs, la diversification des méthodes d’attaque, la concentration régionale des foyers terroristes et la complexité des groupes impliqués.
+    <br><br>
+    Au-delà des chiffres, chaque graphique raconte une part d’histoire humaine : des sociétés traumatisées, des familles endeuillées, des résistances silencieuses. Ces données ne sont pas que des indicateurs statistiques — elles sont la mémoire visuelle d’un monde marqué par la peur, l’idéologie, et parfois l’oubli.
+    <br><br>
+    En combinant cartes, timelines, typologies, hiérarchies et filtres régionaux, nous avons pu construire une lecture à plusieurs niveaux du terrorisme : géographique, chronologique, stratégique et humain. Ce tableau de bord peut servir d’outil d’analyse pour les chercheurs, d’aide à la décision pour les institutions publiques, et de support pédagogique pour comprendre les enjeux sécuritaires contemporains.
+    <br><br>
+    En définitive, TerrorTrack rappelle que la lutte contre le terrorisme ne peut être efficace sans une compréhension fine de ses racines, de ses logiques, et de ses mutations. Lire ces données, c’est déjà une forme de vigilance citoyenne.
+  </p>
+</div>
+
 
   </div>
 

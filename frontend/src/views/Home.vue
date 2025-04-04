@@ -31,7 +31,7 @@
       <!-- Données Utilisées -->
       <h2 class="section-title">Données Utilisées</h2>
       <p>
-        Les données utilisées pour ce projet proviennent de la Global Terrorism Database (GTD), une base de données publique qui recense plus de 180 000 attentats terroristes à travers le monde entre 1970 et 2017.
+        Les données utilisées pour ce projet proviennent de la Global Terrorism Database (GTD), une base de données publique qui recense plus de 180 000 attentats terroristes à travers le monde entre 1990 et 2017.
       </p>
       <ul>
         <li>📅 Dates et lieux des attentats</li>
