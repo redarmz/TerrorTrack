@@ -10,14 +10,14 @@
     Après 1990, le monde entre dans une nouvelle ère marquée par la montée des conflits asymétriques, l'émergence d'acteurs non étatiques, et la multiplication des attaques visant des civils. Le terrorisme devient alors un phénomène globalisé, aux motivations multiples (religieuses, politiques, idéologiques), souvent enraciné dans des tensions locales mais avec des répercussions internationales.
     <br><br>
     Ce tableau de bord vise à rendre compte de cette complexité à travers des visualisations interactives permettant d’explorer :
-    <ul>
-      <li>📈 L’évolution du nombre d’attentats au fil des années</li>
-      <li>🌍 Les régions les plus touchées et leur évolution géographique</li>
-      <li>🔫 Les types d’attaques et d’armes utilisés</li>
-      <li>🎯 Les cibles les plus visées par les groupes terroristes</li>
-      <li>💀 Le nombre de victimes et les attaques les plus meurtrières</li>
-      <li>🧠 Les groupes responsables les plus actifs dans le monde</li>
-    </ul>
+        <br><br>
+        <p>📈 L’évolution du nombre d’attentats au fil des années</p>
+<p>🌍 Les régions les plus touchées et leur évolution géographique</p>
+<p>🔫 Les types d’attaques et d’armes utilisés</p>
+<p>🎯 Les cibles les plus visées par les groupes terroristes</p>
+<p>💀 Le nombre de victimes et les attaques les plus meurtrières</p>
+<p>🧠 Les groupes responsables les plus actifs dans le monde</p>
+
     L’objectif de TerrorTrack n’est pas seulement de présenter des chiffres, mais de raconter, à travers les données, l’histoire contemporaine d’un phénomène tragique qui façonne nos sociétés, influence les politiques de sécurité et bouleverse des millions de vies.
   </p>
 </div>
