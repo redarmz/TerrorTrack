@@ -26,6 +26,8 @@
       </div>
     </div>
 
+    
+
     <!-- Graphique 2 -->
     <div class="graph-section">
       <h2>2. Répartition des attaques par type (avec slider)</h2>
@@ -35,6 +37,18 @@
       <div class="analysis-box">
         <h3>Analyse</h3>
         <p>Ici, tu peux décrire les types d’attaques les plus fréquents ou leur évolution au fil des années.</p>
+      </div>
+    </div>
+
+    <!-- Graphique 6 -->
+    <div class="graph-section">
+      <h2>6. Carte des pays les plus touchés</h2>
+      <div class="iframe-wrapper">
+        <iframe src="/plotly/graph_6.html" width="100%" height="600" frameborder="0"></iframe>
+      </div>
+      <div class="analysis-box">
+        <h3>Analyse</h3>
+        <p>Commenter ici les pays les plus touchés par les attaques : pourquoi eux ? Conflits ? Instabilité ?</p>
       </div>
     </div>
 
@@ -49,7 +63,31 @@
         <p>Analyse ici la concentration des attaques dans certaines régions du monde, avec un focus géographique.</p>
       </div>
     </div>
-
+      
+        <!-- Graphique 8 -->
+        <div class="graph-section">
+      <h2>8. Répartition des attaques par région (camembert)</h2>
+      <div class="iframe-wrapper">
+        <iframe src="/plotly/graph_8.html" width="100%" height="600" frameborder="0"></iframe>
+      </div>
+      <div class="analysis-box">
+        <h3>Analyse</h3>
+        <p>Une analyse globale des régions les plus impactées avec leur pourcentage du total.</p>
+      </div>
+    </div>
+    
+       <!-- Graphique 9 -->
+       <div class="graph-section">
+      <h2>9. Nombre de morts par type d’arme</h2>
+      <div class="iframe-wrapper">
+        <iframe src="/plotly/graph_9.html" width="100%" height="600" frameborder="0"></iframe>
+      </div>
+      <div class="analysis-box">
+        <h3>Analyse</h3>
+        <p>Quels types d’armes sont les plus meurtriers ? Ce graphique sert à répondre à cette question.</p>
+      </div>
+    </div>
+    
     <!-- Graphique 4 -->
     <div class="graph-section">
       <h2>4. Types d’attaques selon les régions</h2>
@@ -74,17 +112,7 @@
       </div>
     </div>
 
-    <!-- Graphique 6 -->
-    <div class="graph-section">
-      <h2>6. Carte des pays les plus touchés</h2>
-      <div class="iframe-wrapper">
-        <iframe src="/plotly/graph_6.html" width="100%" height="600" frameborder="0"></iframe>
-      </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-        <p>Commenter ici les pays les plus touchés par les attaques : pourquoi eux ? Conflits ? Instabilité ?</p>
-      </div>
-    </div>
+    
 
     <!-- Graphique 7 -->
     <div class="graph-section">
@@ -98,29 +126,9 @@
       </div>
     </div>
 
-    <!-- Graphique 8 -->
-    <div class="graph-section">
-      <h2>8. Répartition des attaques par région (camembert)</h2>
-      <div class="iframe-wrapper">
-        <iframe src="/plotly/graph_8.html" width="100%" height="600" frameborder="0"></iframe>
-      </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-        <p>Une analyse globale des régions les plus impactées avec leur pourcentage du total.</p>
-      </div>
-    </div>
 
-    <!-- Graphique 9 -->
-    <div class="graph-section">
-      <h2>9. Nombre de morts par type d’arme</h2>
-      <div class="iframe-wrapper">
-        <iframe src="/plotly/graph_9.html" width="100%" height="600" frameborder="0"></iframe>
-      </div>
-      <div class="analysis-box">
-        <h3>Analyse</h3>
-        <p>Quels types d’armes sont les plus meurtriers ? Ce graphique sert à répondre à cette question.</p>
-      </div>
-    </div>
+
+ 
 
     <!-- Graphique 10 -->
     <div class="graph-section">
