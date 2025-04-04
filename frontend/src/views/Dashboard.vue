@@ -22,7 +22,7 @@
       </div>
       <div class="analysis-box">
         <h3>Analyse</h3>
-        <p>Ceci est le commentaire pour le graphique 1. Tu pourras parler ici de la hausse ou baisse des attaques dans le temps.</p>
+        <p>Le graphique présente l’évolution annuelle du nombre d’attaques terroristes dans le monde depuis la fin des années 1980. On observe une première hausse notable entre 1989 et 1994, atteignant un pic à environ 5 000 attaques. Une baisse progressive suit, jusqu’à un creux autour de 2001 avec moins de 2 000 attaques. À partir de 2004, le nombre d’attaques repart à la hausse de façon continue, culminant en 2014–2015 avec plus de 10 000 attaques. Ce pic est probablement lié à l’intensification des conflits au Moyen-Orient et à la montée de groupes extrémistes comme Daesh. Depuis 2016, une baisse relative s’observe, bien que les chiffres restent élevés. Cette visualisation permet ainsi de repérer des phases clés dans l’histoire contemporaine du terrorisme mondial.</p>
       </div>
     </div>
 
