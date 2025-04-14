@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "corsheaders",
     "instant",
+    "api",
 ]
 
 MIDDLEWARE = [
@@ -129,6 +130,7 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 SESSION_COOKIE_SAMESITE = "Lax"
 SESSION_COOKIE_SECURE = False
+CSRF_COOKIE_HTTPONLY = False  # Permet à JS de le lire si besoin
 
 CSRF_COOKIE_SECURE = False
 CSRF_COOKIE_SAMESITE = "Lax"
@@ -136,7 +138,7 @@ CSRF_TRUSTED_ORIGINS = ["http://localhost:3000"]
 
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDENTIALS = True
-
+CORS_ALLOWED_ORIGINS = ["http://localhost:3000"]   
 CENTRIFUGO_HOST = "http://localhost"
 CENTRIFUGO_PORT = 8427
 CENTRIFUGO_HMAC_KEY = "74a7891a-25ea-4afe-a042-af14cae8b1a3"

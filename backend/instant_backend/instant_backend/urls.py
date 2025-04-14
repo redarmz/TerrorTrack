@@ -14,7 +14,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 from django.http import JsonResponse
 
 def api_test(request):
@@ -23,4 +23,5 @@ def api_test(request):
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("api/test", api_test, name="api_test"),
+    path('api/', include('api.urls')), 
 ]
