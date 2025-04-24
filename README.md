@@ -1,5 +1,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/redarmz/terrortrack/badge)](https://www.codefactor.io/repository/github/redarmz/terrortrack)
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Release](https://img.shields.io/badge/release-v1.0.0-blue)
+
+
 
 ## Install and run
 
