@@ -4,6 +4,22 @@
 ![Release](https://img.shields.io/badge/release-v1.0.0-blue)
 ![Repo Size](https://img.shields.io/github/repo-size/redarmz/terrortrack)
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Release](https://img.shields.io/badge/release-v1.0.1-blue)
+
+![Java CI](https://github.com/redarmz/terrortrack/actions/workflows/main.yml/badge.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Quality Gate](https://img.shields.io/badge/quality%20gate-passed-brightgreen)
+
+[![codecov](https://codecov.io/gh/redarmz/terrortrack/branch/main/graph/badge.svg)](https://codecov.io/gh/redarmz/terrortrack)
+
+![Reliability](https://img.shields.io/badge/reliability-A-brightgreen)
+![Security](https://img.shields.io/badge/security-A-brightgreen)
+![Bugs](https://img.shields.io/badge/bugs-0-brightgreen)
+![Technical Debt](https://img.shields.io/badge/technical%20debt-14min-brightgreen)
+![Lines of Code](https://img.shields.io/tokei/lines/github/redarmz/terrortrack)
+
+
 
 
 ## Install and run
