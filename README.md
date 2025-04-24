@@ -4,13 +4,6 @@
 ![Release](https://img.shields.io/badge/release-v1.0.0-blue)
 ![Repo Size](https://img.shields.io/github/repo-size/redarmz/terrortrack)
 
-![Java CI](https://github.com/redarmz/terrortrack/actions/workflows/ci.yml/badge.svg)
-[![codecov](https://codecov.io/gh/redarmz/terrortrack/branch/main/graph/badge.svg)](https://codecov.io/gh/redarmz/terrortrack)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ID_DU_PROJET)](https://app.codacy.com/gh/redarmz/terrortrack/dashboard)
-
-
-
-
 
 ## Install and run
 
