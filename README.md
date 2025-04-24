@@ -2,6 +2,10 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Release](https://img.shields.io/badge/release-v1.0.0-blue)
+![Build Status](https://github.com/USER/REPO/actions/workflows/main.yml/badge.svg)
+[![codecov](https://codecov.io/gh/USER/REPO/branch/main/graph/badge.svg)](https://codecov.io/gh/USER/REPO)
+![Lines of Code](https://img.shields.io/tokei/lines/github/USER/REPO)
+![Repo Size](https://img.shields.io/github/repo-size/USER/REPO)
 
 
 
