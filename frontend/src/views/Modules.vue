@@ -35,6 +35,19 @@
           <option v-for="r in regionList" :key="r" :value="r">{{ r }}</option>
         </select>
       </div>
+      <!-- Type de cible -->
+            <div class="mb-3">
+        <label class="form-label">Type de cible</label>
+        <select v-model="form.targtype1_txt" class="form-select">
+          <option disabled value="">Sélectionnez un type</option>
+          <option>Civils</option>
+          <option>Police</option>
+          <option>Militaires</option>
+          <option>Gouvernement</option>
+          <option>Entreprises</option>
+          <option>Transports</option>
+        </select>
+      </div>
 
       <!-- Champs Oui / Non / Ne sais pas -->
       <div v-for="(label, field) in choixOuiNon" :key="field" class="mb-3">
@@ -94,6 +107,7 @@ const form = ref({
   country_txt: '',
   iyear: '',
   region_txt: '',
+  targtype1_txt: '',  
   en_guerre: null,
   groupes_active: null,
   est_democratie: null,
@@ -162,6 +176,7 @@ const lancerPrediction = async () => {
       country_txt: form.value.country_txt,
       iyear: form.value.iyear,
       region_txt: form.value.region_txt,
+      targtype1_txt: form.value.targtype1_txt,  
       en_guerre: guerre,
       groupes_active: groupes,
       est_democratie: democratie,
@@ -182,6 +197,7 @@ const lancerPrediction = async () => {
       country_txt: '',
       iyear: '',
       region_txt: '',
+      targtype1_txt: '',  
       en_guerre: null,
       groupes_active: null,
       est_democratie: null,

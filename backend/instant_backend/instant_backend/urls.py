@@ -22,6 +22,6 @@ def api_test(request):
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("api/test", api_test, name="api_test"),
+    path("api/test/", api_test, name="api_test"),
     path('api/', include('api.urls')), 
 ]

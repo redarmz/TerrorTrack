@@ -4,7 +4,6 @@
 ![Release](https://img.shields.io/badge/release-v1.0.0-blue)
 ![Repo Size](https://img.shields.io/github/repo-size/redarmz/terrortrack)
 
-
 ## Install and run
 
 ```
