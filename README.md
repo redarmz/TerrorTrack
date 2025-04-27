@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/redarmz/terrortrack/badge)](https://www.codefactor.io/repository/github/redarmz/terrortrack)
+
 ## Install and run
 
 ```
